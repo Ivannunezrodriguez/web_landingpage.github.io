@@ -274,4 +274,5 @@ input[type="submit"]:hover {
 .container h2 {
   color: rgb(51, 255, 0);
   text-align: center;
+  font-size:  25px;
 }
